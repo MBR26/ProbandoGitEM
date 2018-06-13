@@ -1,5 +1,9 @@
-master kk
+﻿master kk
 carol es maligna
 ines tiene una forja
 david tiene una fábrica de palmeras
+<<<<<<< HEAD
 Vamos a aprobar el examen de mañana
+=======
+marcos es arquero perchil
+>>>>>>> origin/master
