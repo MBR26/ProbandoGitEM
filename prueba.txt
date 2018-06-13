@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 David quiere una palmera
 Inés quiere 2 palmeras
 =======
 
 
 >>>>>>> 70e9911e6dd314c771e28705c1b0f9c26ccc61f9
+=======
+
+
+>>>>>>> 43ba1e7d469c7b72f3f6c192b70c4e9d19e6cfa4
